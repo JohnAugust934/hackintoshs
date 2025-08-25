@@ -10,7 +10,7 @@ Cada pasta neste repositório contém uma EFI completa e um `README.md` detalhad
 
 Aqui está uma lista das configurações de EFI que você encontrará neste repositório:
 
-* **Dell Inspiron 5480:** [Link para a pasta](./EFI_Dell_XPS_13_9360/)
+* **Dell Inspiron 5480:** [Link para a pasta](./EFI_DELL_INSPIRON_5480/EFI/)
 * *[trabalhando...]*
 
 ## Aviso Legal
