@@ -2,7 +2,9 @@
 
 Esta pasta contém a EFI para a instalação do macOS no **Dell Inspiron 5480**.
 
-![Foto da sua máquina rodando macOS](link_para_a_imagem.jpg) ## Especificações do Hardware
+![Foto da sua máquina rodando macOS](link_para_a_imagem.jpg) 
+
+## Especificações do Hardware
 
 | Componente       | Modelo Específico                              |
 | ---------------- | -----------------------------------------------|
